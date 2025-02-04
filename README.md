@@ -61,4 +61,4 @@ Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
 
-Email me at: abdou19.tech@gmail.com.
+Email me at: polongdev@gmail.com.
